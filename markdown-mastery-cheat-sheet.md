@@ -47,15 +47,66 @@ without starting a new paragraph.
 - [ ] To-do
 ```
 
-## 
-
+## 5. Links & Images
 ```md
-
+[Link text](https://example.com)
+![Alt text](image.jpg)
 ```
 
-## 
-
+## 6. Blockquotes
 ```md
-
+> This is a quote
+>> Nested quote
 ```
+
+## 7. Code Blocks
+```md
+```language
+# Example in Python
+print("Hello, World!")
+/```
+```
+
+## 8. Horizontal Rules
+```md
+---
+```
+
+## 9. Tables (GFM)
+```md
+| Name  | Age |
+|-------|-----|
+| Alice | 24  |
+| Bob   | 30  |
+```
+
+## 10. Footnotes
+```md
+Here is a note.[^1]
+
+[^1]: Footnote text
+```
+
+## 11. Escaping Characters
+```md
+\*Not italic\*
+```
+
+## 12. Extended Features
+Math (if supported):
+```md
+$E = mc^2$
+```
+## 13. Best Practices
+- Keep lines under 80–100 chars for readability.
+- Use relative paths for images in repos.
+- Avoid mixing HTML unless necessary.
+- Test in a Markdown previewer before publishing.
+
+## 14. Common Tools
+- Editor & Preview: VS Code, Obsidian, Typora
+- Conversion to PDF/HTML: Pandoc, Markdown PDF (VS Code)
+- Online: Dillinger, StackEdit
+
+
 
