@@ -18,14 +18,15 @@
 
 ## 2. Thẻ cơ bản
 
-  Thẻ               Mô tả
-  ----------------- ------------------------------------
-  `<h1>` → `<h6>`   Tiêu đề (h1 lớn nhất, h6 nhỏ nhất)
-  `<p>`             Đoạn văn
-  `<br>`            Xuống dòng
-  `<hr>`            Gạch ngang
-  `<span>`          Nội dung inline
-  `<div>`           Khối nội dung (block)
+| Thẻ             | Mô tả                              |
+| --------------- | ---------------------------------- |
+| `<h1>` → `<h6>` | Tiêu đề (h1 lớn nhất, h6 nhỏ nhất) |
+| `<p>`           | Đoạn văn                           |
+| `<br>`          | Xuống dòng                         |
+| `<hr>`          | Gạch ngang                         |
+| `<span>`        | Nội dung inline                    |
+| `<div>`         | Khối nội dung (block)              |
+
 
 ## 3. Liên kết & Ảnh
 
