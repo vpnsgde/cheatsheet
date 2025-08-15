@@ -106,15 +106,16 @@
 
 ## 8. Semantic HTML5
 
-  Thẻ           Ý nghĩa
-  ------------- ------------------
-  `<header>`    Phần đầu trang
-  `<nav>`       Thanh điều hướng
-  `<main>`      Nội dung chính
-  `<section>`   Phần nội dung
-  `<article>`   Bài viết độc lập
-  `<aside>`     Nội dung phụ
-  `<footer>`    Chân trang
+| Thẻ         | Ý nghĩa          |
+| ----------- | ---------------- |
+| `<header>`  | Phần đầu trang   |
+| `<nav>`     | Thanh điều hướng |
+| `<main>`    | Nội dung chính   |
+| `<section>` | Phần nội dung    |
+| `<article>` | Bài viết độc lập |
+| `<aside>`   | Nội dung phụ     |
+| `<footer>`  | Chân trang       |
+
 
 ## 9. Meta & SEO
 
@@ -126,14 +127,15 @@
 
 ## 10. Thuộc tính toàn cục
 
-  Thuộc tính   Mô tả
-  ------------ --------------------
-  `id`         Định danh duy nhất
-  `class`      Phân loại nhóm CSS
-  `style`      CSS inline
-  `title`      Tooltip khi hover
-  `hidden`     Ẩn phần tử
-  `tabindex`   Thứ tự tab focus
+| Thuộc tính | Mô tả              |
+| ---------- | ------------------ |
+| `id`       | Định danh duy nhất |
+| `class`    | Phân loại nhóm CSS |
+| `style`    | CSS inline         |
+| `title`    | Tooltip khi hover  |
+| `hidden`   | Ẩn phần tử         |
+| `tabindex` | Thứ tự tab focus   |
+
 
 ## 11. HTML nâng cao
 
