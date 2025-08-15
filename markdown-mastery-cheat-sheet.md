@@ -64,7 +64,7 @@ without starting a new paragraph.
 ```language
 # Example in Python
 print("Hello, World!")
-```
+\```
 ```
 
 ## 8. Horizontal Rules
